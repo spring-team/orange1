@@ -3,7 +3,7 @@ my new project
 
 Based on seed project `spring-team:spring-rest-seed`
 
-## Development
+## Development - Yes!
 
 This project is driven using [Maven][mvn].
 
